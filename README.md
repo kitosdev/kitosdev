@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Marcos+Movilla.)](https://git.io/typing-svg)
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -70,8 +70,8 @@
 </head>
 <body>
   <header>
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Marcos+Movilla.)](https://git.io/typing-svg)
-    <p>Apasionado por la programación y el desarrollo web</p>
+   
+  <p>Apasionado por la programación y el desarrollo web</p>
   </header>
   <section>
     <h2>Sobre mí</h2>
