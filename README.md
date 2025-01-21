@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Marcos+Movilla.)](https://git.io/typing-svg)
 
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Perfil de Estudiante DAW</title>
+  <title>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Marcos+Movilla.)](https://git.io/typing-svg)
+  </title>
 <!--
   <style>
     body {
