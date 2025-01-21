@@ -6,7 +6,7 @@
     style='background-color: #00000000;'
     width='435px' height='50px'>
 
-    <style>
+<style>
 @font-face {
   font-family: 'Fira Code';
   font-style: normal;
@@ -16,9 +16,8 @@
 }
 </style>
 
-                <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d0.end'
+<path id='path0'>
+    <animate id='d0' attributeName='d' begin='0s;d0.end'
                     dur='6000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
