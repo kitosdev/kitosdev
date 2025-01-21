@@ -92,10 +92,10 @@
     
   <h2>Contacto</h2>
     <p>Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en escribirme. ¡Estoy abierto a nuevas ideas y oportunidades! ✉️</p>
-    <p><a href="mailto:tucorreo@example.com">tucorreo@example.com</a></p>
+    <p><a href="mailto:tucorreo@example.com">marcosmovalver@gmail.com</a></p>
   </section>
   <footer>
-    <p>&copy; 2025 - Diseñado por [Tu Nombre]</p>
+    <p>&copy; 2025 - Diseñado por Marcos Movilla</p>
   </footer>
 </body>
 </html>
