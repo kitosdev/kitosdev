@@ -86,7 +86,7 @@
     
   <h2>Contacto</h2>
     <p>Si quieres saber más sobre mí o colaborar en algún proyecto, no dudes en escribirme. ¡Estoy abierto a nuevas ideas y oportunidades! ✉️</p>
-    <p><a href="mailto:tucorreo@example.com">marcos.movilla05@somo.eus></p>
+    <p><a href="mailto:tucorreo@example.com">marcos.movilla05@somo.eus</p>
   </section>
   <footer>
     <p>&copy; 2025 - Diseñado por Marcos Movilla</p>
