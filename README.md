@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Hello+%F0%9F%91%8B%2C+I%60m+Marcos+Movilla;Apasionado+por+la+programaci%C3%B3n+y+el+desarrollo+web)](https://git.io/typing-svg)<!DOCTYPE html>
-<html lang="es">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Hello+%F0%9F%91%8B%2C+I%60m+Marcos+Movilla)](https://git.io/typing-svg)<html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
