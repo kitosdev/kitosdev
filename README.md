@@ -68,10 +68,6 @@
 !-->
 </head>
 <body>
-  <header>
-   
-  <p>Apasionado por la programación y el desarrollo web</p>
-  </header>
   <section>
     <h2>Sobre mí</h2>
     <p>Tengo 19 años y actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Web (DAW). Me gusta explorar nuevas tecnologías, resolver problemas y crear proyectos que me ayuden a mejorar como desarrollador.</p>
