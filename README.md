@@ -67,7 +67,7 @@
 !-->
 </head>
 <body>
-  Estudiante en desarrollo de aolicaciones web, actualmente aprendiendo y explorando el mundo del código. Comencé mi camino en el desarrollo web en 2022, y desde entonces no he parado de aprender nuevas tecnologías y trabajar en proyectos que me desafían a mejorar.
+  Estudiante en desarrollo de aplicaciones web, actualmente aprendiendo y explorando el mundo del código. Comencé mi camino en el desarrollo web en 2022, y desde entonces no he parado de aprender nuevas tecnologías y trabajar en proyectos que me desafían a mejorar.
   <section>
     <h2>Sobre mí</h2>
     <p>Tengo 19 años y actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Web (DAW). Me gusta explorar nuevas tecnologías, resolver problemas y crear proyectos que me ayuden a mejorar como desarrollador.</p>
