@@ -81,8 +81,7 @@
     
   <h2>Proyectos destacados</h2>
     <ul>
-      <li><a href="#">Mi primer proyecto web</a> - Una página estática con diseño moderno.</li>
-      <li><a href="#">Gestor de tareas</a> - Aplicación básica para organizar tareas usando JavaScript.</li>
+      👷
     </ul>
     
   <h2>Contacto</h2>
